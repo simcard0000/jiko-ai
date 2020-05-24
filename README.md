@@ -50,4 +50,4 @@ Font used is [VT323](https://fonts.google.com/specimen/VT323) from Google Fonts.
 
 ~
 
-Authors: Simran Thind (@simcard0000), Cole MacPhail (@colemacphail), Zhengmao Ouyang (@SwuntiiTHICC), Wenyi Hu (@wenyihu3)
+Authors: Simran Thind (@simcard0000), Cole MacPhail (@colemacphail), Zhengmao Ouyang (@ZhengmaoOuyang), Wenyi Hu (@wenyihu3)
