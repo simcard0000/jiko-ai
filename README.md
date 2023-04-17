@@ -1,6 +1,8 @@
 ![active development](https://img.shields.io/badge/active%20dev-on%20hold-yellow.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/simcard0000/jiko-ai.svg)
 # jiko-ai
+![tamagotchi gif](https://cinni.net/images/star_tamagotchi_by_aquaw93.gif)
+
 🐈 A creative final project for SE101 (cohort 2024) - the first-year concepts course for Software Engineering @ the University of Waterloo. jiko-ai is a virtual pet, styled after Tamagotchi™, in which the user is encouraged to not only look after their creatures, but after themselves too. Through activities like medition and affirmations, both the pet and the user can grow together!
 ### Credits
 The audio processing of this project relies heavily on [IBM's Speech-To-Text Service](https://www.ibm.com/ca-en/marketplace/speech-to-text), and a majority of the game code was written using the pygame library (see Dependencies/Imports). For helping format the request to the API and keeping track of what requests we wanted to make, the [Postman](https://www.getpostman.com/) tool was used.
